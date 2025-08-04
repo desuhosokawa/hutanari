@@ -1,9 +1,5 @@
-# hutanari
+
 ふたなり学の研究公開サイト
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8">
   <title>国際ふたなり学融合学際研究機構</title>
   <style>
     body {
